@@ -1,6 +1,6 @@
 {
-  "version": "v8.29.56 (patches: 5.32.0)",
-  "versionCode": 22,
-  "zipUrl": "https://github.com/Yeboster/revanced-magisk/releases/download/22/music-revanced-magisk-v8.29.56-arm-v7a.zip",
+  "version": "v8.31.51 (patches: 5.33.0)",
+  "versionCode": 23,
+  "zipUrl": "https://github.com/Yeboster/revanced-magisk/releases/download/23/music-revanced-magisk-v8.31.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Yeboster/revanced-magisk/update/build.md"
 }
